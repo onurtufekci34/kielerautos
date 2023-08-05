@@ -1,6 +1,6 @@
 # Hello Kieler Autos
 
-![Hello Kieler Autos](images/1.png)
+![Hello Kieler Autos](1.png)
 
 This is a simple PHP-based website named "Hello Kieler Autos." It displays a list of vehicles and allows users to view a personalized payment plan based on their selected repayment duration and credit health.
 
@@ -28,7 +28,7 @@ To run the website locally, you need a web server with PHP support. You can use 
 
 ## Screenshots
 
-![Screenshot 1](images/2.png)
+![Screenshot 1](2.png)
 
 
 
